@@ -4385,12 +4385,6 @@ textarea.form-control-lg {
     padding: 0;
     overflow-y: visible;
   }
-  #about{
-  background-image: url("/assets/skins/gedung_1.png"), url("/assets/skins/mobile_background_1.png");
-  background-size: 15%, 15%;
-  background-repeat: no-repeat, no-repeat;
-  background-position: top right, 80% 100%;
-}
 }
 @media (min-width: 1400px) {
   .navbar-expand-xxl {
